@@ -29,10 +29,10 @@ public class Review1 {
 	}
 
 	public static void q5() {
-		String string1 = "Hello";
-		String string2 = "World";
-		System.out.print(string1);
-		System.out.print(" " + string2);
+		String first = "Hello";
+		String second = "World";
+		System.out.print(first + " ");
+		System.out.print(second + "\n");
 	}
 
 }
